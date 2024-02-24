@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import { motion } from "framer-motion";
+import React from "react";
+// import { motion } from "framer-motion";
 import Ticker from "framer-motion-ticker";
 import uba from "../img/uba.png";
 import fortoil from "../img/fortoil.png";

@@ -11,13 +11,13 @@ export const Footer = () => {
         Limited
       </div>
       <div className=" flex w-2/5 px-20">
-        <a href="#" className=" text-orange-500 cursor-pointer mr-5">
+        <a href="www.google.com" className=" text-orange-500 cursor-pointer mr-5">
           <FaXTwitter />
         </a>
-        <a href="#" className=" text-orange-500 cursor-pointer mr-5">
+        <a href="www.google.com" className=" text-orange-500 cursor-pointer mr-5">
           <FaLinkedinIn />
         </a>
-        <a href="#" className=" text-orange-500 cursor-pointer mr-5">
+        <a href="www.google.com" className=" text-orange-500 cursor-pointer mr-5">
           <FaInstagram />
         </a>
       </div>

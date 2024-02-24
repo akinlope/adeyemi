@@ -13,6 +13,7 @@ export const Map = ({wid, hig}) => {
         allowFullScreen=""
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"
+        title="google map address"
       ></iframe>
     </div>
   );

@@ -1,20 +1,20 @@
 import React from "react";
 import eng from "../../img/engi.jpg";
 import homeBg from "../../img/homeBg.jpg";
-import engineering from "../../img/engineering.jpg";
-import construction from "../../img/cons.jpg";
-import procurement from "../../img/procurement.jpg";
-import adeyemi from "../../img/adeyemi.jpg";
-import person1 from "../../img/person1.jpg";
-import person2 from "../../img/person2.jpg";
+// import engineering from "../../img/engineering.jpg";
+// import construction from "../../img/cons.jpg";
+// import procurement from "../../img/procurement.jpg";
+// import adeyemi from "../../img/adeyemi.jpg";
+// import person1 from "../../img/person1.jpg";
+// import person2 from "../../img/person2.jpg";
 import TOPDEL from "../file/TOPDEL.pdf";
 import { Iso } from "../Iso";
 import Carousel from "../Carousel";
 import { Map } from "../Map";
 import { Service } from "../Service";
-import { OurTeamCard } from "../OurTeamCard";
+// import { OurTeamCard } from "../OurTeamCard";
 import { ourTeamData } from "../../helpers";
-import { Hero } from "./Hero";
+// import { Hero } from "./Hero";
 
 export const Hero1 = () => {
   return (
